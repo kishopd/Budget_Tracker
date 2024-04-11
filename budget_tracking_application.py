@@ -34,6 +34,7 @@ def my_function():
             else:
                 for key, value in dict_values.items():
                     print(key, value)
+                    #chanigng
 
         elif option == 4:
             total_balance = 0
